@@ -1,2 +1,2 @@
 # test
-first demo for try the github
+first demo for using the github
